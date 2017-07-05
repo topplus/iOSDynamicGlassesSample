@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  DyGlassesProject
+
+  Created by Jeavil on 16/6/25.
+  Copyright © 2016年 topplusvision. All rights reserved.
+*/
+"Change Glasses"="Choose glass";
+"多窗口"="Multiple";
+"正在初始化，请稍候。。。"="Initializing...";
