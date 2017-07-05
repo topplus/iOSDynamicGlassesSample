@@ -24,7 +24,7 @@ Xcode7.0及以上版本
 
 ## 接口定义和使用说明 ##
 
-[文档](https://github.com/topplus/iOSStaticGlassesSample/tree/master/doc)
+[文档](https://github.com/topplus/iOSDynamicGlassesSample/tree/master/Doc)
 
 ## 联系我们 ##
 
